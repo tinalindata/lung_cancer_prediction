@@ -3,7 +3,7 @@
 
 &nbsp;
 ## Data Source 
-The dataset that I use is a lNational Lung Screening Trail (NLST) Dataset that has 138 columns and 1,659 rows. 1,659 rows stand for 1,659 patients. There is a “class” column that stands for with lung cancer or without lung cancer. The other columns are features of the patients, such as “age”, “height”, “education”, etc. The dataset is provided by a professor at the State University of Arkansas and I am a remote volunteer for his lung cancer research project.
+The dataset that I use is a National Lung Screening Trail (NLST) Dataset that has 138 columns and 1,659 rows. 1,659 rows stand for 1,659 patients. There is a “class” column that stands for with lung cancer or without lung cancer. The other columns are features of the patients, such as “age”, “height”, “education”, etc. The dataset is provided by a professor at the State University of Arkansas and I am a remote volunteer for his lung cancer research project.
 
 &nbsp;
 ## Motivation
